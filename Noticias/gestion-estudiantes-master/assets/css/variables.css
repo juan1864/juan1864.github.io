@@ -1,0 +1,10 @@
+.menu-presidente{
+    display:none;
+   }
+
+.services:hover .drop-down {
+    display: block;
+}
+.gato{
+    display:none; 
+}

@@ -1,0 +1,57 @@
+
+body {
+    background-color: hsl(185, 75%, 39%);
+    overflow: hidden;
+    
+  }
+ .bg-image {
+  position: absolute;
+  
+}
+
+.bg-image--top {
+  top: -200px;
+  left: -100px;
+}
+
+.bg-image--bottom {
+  bottom: -450px;
+  right: -100px;
+}
+
+  .img-fondo{
+    border-radius: 50%; 
+    height: 10px;
+    width: 50px;
+    
+  }
+ .img-junta{
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    
+    
+ }
+ .contenedor{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .cuadro-login{
+    background-color: rgba(255, 252, 252, 0.995);
+    margin-top: -50px;
+    border: 20rem;
+    border-color: aliceblue;
+    border-radius: 100px;
+    border: 2px solid #000000;
+
+ }
+ .titulo-login{
+    
+    color: rgb(12, 11, 11);
+   
+ }
+  .color-fondo{
+    background-color: blue;
+  }
